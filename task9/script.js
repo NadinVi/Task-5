@@ -23,7 +23,7 @@ for (i = 0; i < newArr.length; i++)
 console.log(newArr);
 
 //сортировка по возрастанию методом пузырьком
-
+// swap метод замены местами элементов
 do {
     flag = false;
     for (let i = 0; i < newArr.length - 1; i += 1) {
